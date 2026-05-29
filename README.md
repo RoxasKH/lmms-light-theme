@@ -10,7 +10,7 @@ This theme is compatible with LMMS nightly 1.3 versions. It is not compatible wi
 Download the source code as .zip, extract it, then put the `light` folder inside your LMMS theme folder.
 To apply it to LMMS, select the `light` folder from LMMS settings and restart the program.
 
-# License
+## License
 This derivative work off of LMMS default theme, therefore it's licensed GPLv2. That said, i personally crafted some new assets, therefore if you plan on modifying it, a mention to the original project would be nice.
 
 ![lmms](screenshot/lmms.png)
