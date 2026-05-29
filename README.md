@@ -13,6 +13,6 @@ To apply it to LMMS, select the `light` folder from LMMS settings and restart th
 # License
 This derivative work off of LMMS default theme, therefore it's licensed GPLv2. That said, i personally crafted some new assets, therefore if you plan on modifying it, a mention to the original project would be nice.
 
-[lmms](screenshot/lmms.png)
+![lmms](screenshot/lmms.png)
 
-[splash](screenshot/splash.png)
+![splash](screenshot/splash.png)
